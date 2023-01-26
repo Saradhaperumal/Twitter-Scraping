@@ -1,0 +1,9 @@
+pip install pandas
+
+pip install streamlit
+
+pip install pymongo
+
+pip install snscrape
+
+Install pycharm version 2020.3
