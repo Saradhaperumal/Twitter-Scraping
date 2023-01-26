@@ -1,4 +1,5 @@
 Twitter Scraping Using Streamlit and Snscrape
+
 Project Title	Twitter Scraping
 Skills take away From This Project	Python scripting, Data Collection, MongoDB, Streamlit
 Domain	Social Media
@@ -25,9 +26,11 @@ Step2: You will get link that opens in browser
 
 
 Step 3: The Screen appears like this
+
  ![image](https://user-images.githubusercontent.com/116868444/214867992-44fff5b9-242a-4ca8-8079-ecb3e997d354.png)
 
 Step 4: Give the input details
+
  ![image](https://user-images.githubusercontent.com/116868444/214868041-bd8aa9ed-c9cc-468c-8af1-df3d95f0f263.png)
 
 Step 5:
@@ -38,16 +41,19 @@ The dataframe appears as below
 
 Step 6:
 Now you can download the file either in csv or in json format, the csv file is as below
- ![image](https://user-images.githubusercontent.com/116868444/214868168-5f859c4b-cebc-40d8-92f5-c8e56325a76e.png)	![image](https://user-images.githubusercontent.com/116868444/214868246-38aadee3-770a-4373-82aa-92977ae7bfdb.png)
+
+ ![image](https://user-images.githubusercontent.com/116868444/214868168-5f859c4b-cebc-40d8-92f5-c8e56325a76e.png)	
 
 Step 7:
 The json file is as below
- ![image](https://user-images.githubusercontent.com/116868444/214868278-375dae51-ebcf-4a85-bde4-cdee4497fd2b.png)
+
+ ![image](https://user-images.githubusercontent.com/116868444/214869291-9de3488c-3fd7-4707-8992-edefdedde026.png)
+
 
 
 Step 8:
 The same dataframe gets updated in Cloud .(MongoDB Atlas)
-![Uploading image.png…]()
 
- 
+ ![image](https://user-images.githubusercontent.com/116868444/214868969-e9d9186c-6602-49ce-9457-0a20e69da43d.png)
+
 
